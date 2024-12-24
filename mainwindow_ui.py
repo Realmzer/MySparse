@@ -24,7 +24,7 @@ import resources_rc
 class Ui_Nugget(object):
     def setupUi(self, Nugget):
         if not Nugget.objectName():
-            Nugget.setObjectName(u"Nugget")
+            Nugget.setObjectName(u"MySparse")
         Nugget.resize(1000, 600)
         sizePolicy = QSizePolicy(QSizePolicy.Policy.Fixed, QSizePolicy.Policy.Fixed)
         sizePolicy.setHorizontalStretch(0)
@@ -3033,11 +3033,11 @@ class Ui_Nugget(object):
     # setupUi
 
     def retranslateUi(self, Nugget):
-        Nugget.setWindowTitle(QCoreApplication.translate("Nugget", u"Nugget", None))
+        Nugget.setWindowTitle(QCoreApplication.translate("MySparse", u"MySparse", None))
         self.centralwidget.setProperty("cls", QCoreApplication.translate("Nugget", u"central", None))
         self.devicePicker.setPlaceholderText(QCoreApplication.translate("Nugget", u"None", None))
         self.refreshBtn.setProperty("cls", QCoreApplication.translate("Nugget", u"btn", None))
-        self.titleBar.setText(QCoreApplication.translate("Nugget", u"Nugget", None))
+        self.titleBar.setText(QCoreApplication.translate("Nugget", u"MySparse", None))
         self.homePageBtn.setText(QCoreApplication.translate("Nugget", u"    Home", None))
         self.homePageBtn.setProperty("cls", QCoreApplication.translate("Nugget", u"sidebarBtn", None))
         self.gestaltPageBtn.setText(QCoreApplication.translate("Nugget", u"     Mobile Gestalt", None))
@@ -3061,14 +3061,14 @@ class Ui_Nugget(object):
         self.phoneNameLbl.setText(QCoreApplication.translate("Nugget", u"Phone", None))
         self.phoneVersionLbl.setText(QCoreApplication.translate("Nugget", u"<a style=\"text-decoration:none; color: white\" href=\"#\">Version</a>", None))
         self.bigNuggetBtn.setText(QCoreApplication.translate("Nugget", u"...", None))
-        self.label_2.setText(QCoreApplication.translate("Nugget", u"Nugget", None))
-        self.discordBtn.setText(QCoreApplication.translate("Nugget", u"  Join the Discord", None))
-        self.starOnGithubBtn.setText(QCoreApplication.translate("Nugget", u"Star on Github", None))
-        self.leminBtn.setText(QCoreApplication.translate("Nugget", u"  LeminLimez", None))
+        self.label_2.setText(QCoreApplication.translate("Nugget", u"MySparse", None))
+        self.discordBtn.setText(QCoreApplication.translate("Nugget", u"  Join the Cowabunga Discord", None))
+        self.starOnGithubBtn.setText(QCoreApplication.translate("Nugget", u"Star Nugget on Github", None))
+        self.leminBtn.setText(QCoreApplication.translate("Nugget", u"  Realmzer", None))
         self.leminTwitterBtn.setText(QCoreApplication.translate("Nugget", u"...", None))
         self.leminGithubBtn.setText(QCoreApplication.translate("Nugget", u"...", None))
         self.leminKoFiBtn.setText(QCoreApplication.translate("Nugget", u"...", None))
-        self.toolButton_14.setText(QCoreApplication.translate("Nugget", u"Main Developer", None))
+        self.toolButton_14.setText(QCoreApplication.translate("Nugget", u"MySparse Developer", None))
         self.helpFromBtn.setText(QCoreApplication.translate("Nugget", u"With Help From", None))
         self.jjtechBtn.setText(QCoreApplication.translate("Nugget", u"JJTech\n"
 "Sparserestore", None))
@@ -3079,7 +3079,7 @@ class Ui_Nugget(object):
         self.toolButton_15.setText(QCoreApplication.translate("Nugget", u"Additional Thanks", None))
         self.libiBtn.setText(QCoreApplication.translate("Nugget", u"pymobiledevice3", None))
         self.qtBtn.setText(QCoreApplication.translate("Nugget", u"Qt Creator", None))
-        self.label.setText(QCoreApplication.translate("Nugget", u"Nugget GUI - Version 4.2 (beta 1)", None))
+        self.label.setText(QCoreApplication.translate("Nugget", u"MySparse GUI - Version 4.2 (beta 1)", None))
         self.statusBarLbl.setText(QCoreApplication.translate("Nugget", u"Mobile Gestalt", None))
         self.mgaWarningLbl.setText(QCoreApplication.translate("Nugget", u"! You will need a MobileGestalt file for this feature. Please select it in the Apply page !", None))
         self.label_9.setText(QCoreApplication.translate("Nugget", u"Device Subtype Preset", None))
@@ -3209,7 +3209,7 @@ class Ui_Nugget(object):
 "The options on this page may be unsafe for your device. Use these options at your own risk. Changing\n"
 "your device resolution has the potential to brick your device when used improperly.\n"
 "\n"
-"Nugget is not responsible if you mess up your device, especially with resolution changer.", None))
+"MySparse is not responsible if you mess up your device, especially with resolution changer.", None))
         self.disableOTAChk.setText(QCoreApplication.translate("Nugget", u"Disable OTA Updates", None))
         self.enableResolutionChk.setText(QCoreApplication.translate("Nugget", u"Set a Custom Device Resolution", None))
         self.resHeightLbl.setText(QCoreApplication.translate("Nugget", u"Height:", None))

@@ -53,7 +53,7 @@ class UpdateAppDialog(QDialog):
         message_text = ""
         latest_version = get_latest_version()
         if latest_version != None:
-            message_text += f"Nugget v{latest_version} is available. "
+            message_text += f"MySparse v{latest_version} is available. "
         message_text += "Would you like to go to the download on GitHub?"
         message = QLabel(message_text)
 

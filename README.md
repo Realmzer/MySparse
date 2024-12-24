@@ -1,4 +1,4 @@
-# Nugget
+# MySparse
 Unlock your device's full potential!
 
 Sparserestore works on all versions iOS 17.0-18.2 developer beta 2. There is partial support for iOS 18.2 developer beta 3 and newer.

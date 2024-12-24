@@ -13,7 +13,7 @@ args = [
     '--copy-metadata=pyimg4',
     '--onedir',
     '--noconfirm',
-    '--name=Nugget',
+    '--name=MySparse',
     '--icon=nugget.ico',
     '--optimize=2'
 ]
