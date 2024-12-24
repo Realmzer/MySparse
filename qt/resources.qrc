@@ -1,6 +1,6 @@
 <RCC>
     <qresource prefix="/">
-        <file>credits/LeminLimez.png</file>
+        <file>credits/Realmzer.png</file>
         <file>icon/app-indicator.svg</file>
         <file>icon/arrow-clockwise.svg</file>
         <file>icon/brush.svg</file>
@@ -17,7 +17,7 @@
         <file>icon/discord.svg</file>
         <file>icon/heart-fill.svg</file>
         <file>icon/github.svg</file>
-        <file>icon/twitter.svg</file>
+        <file>icon/twitternew.svg</file>
         <file>icon/file-earmark-zip.svg</file>
         <file>icon/folder.svg</file>
         <file>icon/trash.svg</file>

@@ -489,11 +489,11 @@ class MainWindow(QtWidgets.QMainWindow):
         webbrowser.open_new_tab("https://cowabun.ga")
 
     def on_leminGitHubBtn_clicked(self):
-        webbrowser.open_new_tab("https://github.com/leminlimez")
+        webbrowser.open_new_tab("https://github.com/Realmzer")
     def on_leminTwitterBtn_clicked(self):
-        webbrowser.open_new_tab("https://twitter.com/LeminLimez")
+        webbrowser.open_new_tab("https://x.com/realmzerplus")
     def on_leminKoFiBtn_clicked(self):
-        webbrowser.open_new_tab("https://ko-fi.com/leminlimez")
+        webbrowser.open_new_tab("https://ko-fi.com/realmzer")
 
     def on_jjtechBtn_clicked(self):
         webbrowser.open_new_tab("https://github.com/JJTech0130/TrollRestore")

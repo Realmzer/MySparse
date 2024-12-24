@@ -1176,7 +1176,7 @@ QSlider::tick:horizontal {
                       </property>
                       <property name="icon">
                        <iconset>
-                        <normaloff>:/credits/LeminLimez.png</normaloff>:/credits/LeminLimez.png</iconset>
+                        <normaloff>:/credits/Realmzer.png</normaloff>:/credits/Realmzer.png</iconset>
                       </property>
                       <property name="toolButtonStyle">
                        <enum>Qt::ToolButtonTextBesideIcon</enum>
@@ -1203,7 +1203,7 @@ QToolButton:pressed {
                       </property>
                       <property name="icon">
                        <iconset>
-                        <normaloff>:/icon/twitter.svg</normaloff>:/icon/twitter.svg</iconset>
+                        <normaloff>:/icon/twitternew.svg</normaloff>:/icon/twitternew.svg</iconset>
                       </property>
                      </widget>
                     </item>

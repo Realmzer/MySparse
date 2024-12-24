@@ -643,7 +643,7 @@ class Ui_Nugget(object):
 "	background: none;\n"
 "}")
         icon14 = QIcon()
-        icon14.addFile(u":/credits/LeminLimez.png", QSize(), QIcon.Mode.Normal, QIcon.State.Off)
+        icon14.addFile(u":/credits/Realmzer.png", QSize(), QIcon.Mode.Normal, QIcon.State.Off)
         self.leminBtn.setIcon(icon14)
         self.leminBtn.setToolButtonStyle(Qt.ToolButtonTextBesideIcon)
 
@@ -663,7 +663,7 @@ class Ui_Nugget(object):
 "    color: #FFFFFF;\n"
 "}")
         icon15 = QIcon()
-        icon15.addFile(u":/icon/twitter.svg", QSize(), QIcon.Mode.Normal, QIcon.State.Off)
+        icon15.addFile(u":/icon/twitternew.svg", QSize(), QIcon.Mode.Normal, QIcon.State.Off)
         self.leminTwitterBtn.setIcon(icon15)
 
         self.horizontalLayout_6.addWidget(self.leminTwitterBtn)
